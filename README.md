@@ -65,9 +65,15 @@ I love building scalable systems, automating workflows, and working on cloud-nat
 ---
 
 ## 🌐 Connect With Me
-**📧 Email:** geethar272003@gmail.com 
-**🔗 LinkedIn:** https://linkedin.com/in/geethar272003  
+<p align="left">
+  <a href="mailto:geethar272003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
+  <a href="https://linkedin.com/in/geethar272003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me for collaborations or opportunities!*
