@@ -42,13 +42,6 @@ I love building scalable systems, automating workflows, and working on cloud-nat
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geetha-R-27&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geetha-R-27&theme=tokyonight" width="48%" />
-</p>
----
-
 ## 👀 Profile Visitors
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Geetha-R-27&color=blue&style=flat-square">
