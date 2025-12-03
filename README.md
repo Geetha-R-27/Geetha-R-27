@@ -1,18 +1,19 @@
 <h1 align="center">👋 Hi, I'm Geetha R</h1>
-<h3 align="center">DevOps Engineer | Java & Spring Boot Developer | AWS Cloud Enthusiast</h3>
+<h3 align="center">DevOps Engineer | Java & Spring Boot Developer Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 I am a passionate **DevOps Engineer** with strong experience in:
 
-- Java & Spring Boot Application Development  
+- Java & Spring Boot Application Development
 - CI/CD Pipelines  
 - Cloud Infrastructure using AWS & Terraform  
 - Automation & Containerization using Docker  
 - Kubernetes Deployment  
 - Shell/Bash Scripting  
-- Linux System Administration  
+- Linux System Administration
+- Promotheus as monitoring tool
 
 I love building scalable systems, automating workflows, and working on cloud-native technologies.
 
