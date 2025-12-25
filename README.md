@@ -13,7 +13,7 @@ I am a passionate **DevOps Engineer** with strong experience in:
 - Kubernetes Deployment  
 - Shell/Bash Scripting  
 - Linux System Administration
-- Promotheus as monitoring tool
+- Promotheus and Grafana as monitoring tool
 
 I love building scalable systems, automating workflows, and working on cloud-native technologies.
 
