@@ -6,6 +6,8 @@
 ## 🚀 About Me
 I am a passionate **DevOps Engineer** with strong experience in:
 
+
+**Experience in startup project**
 - Java & Spring Boot Application Development
 - CI/CD Pipelines  
 - Cloud Infrastructure using AWS & Terraform  
@@ -14,6 +16,7 @@ I am a passionate **DevOps Engineer** with strong experience in:
 - Shell/Bash Scripting  
 - Linux System Administration
 - Promotheus and Grafana as monitoring tool
+- Knowledge on Slack 
 
 I love building scalable systems, automating workflows, and working on cloud-native technologies.
 
